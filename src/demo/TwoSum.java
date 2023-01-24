@@ -26,7 +26,7 @@ public class TwoSum {
 		System.out.println("value:" +value[i]);
 		
 		}
-		*/
+		
 		
 		System.out.println("result:" +twoSum(value,target));
      
